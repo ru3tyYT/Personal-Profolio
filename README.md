@@ -1,4 +1,4 @@
-# Mason's Portfolio Website
+# mason's Portfolio Website
 
 A modern, interactive portfolio website showcasing projects with a dynamic typing animation and smooth user experience.
 
